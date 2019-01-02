@@ -1,0 +1,11 @@
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\bin\Debug\print_outs.exe.config
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\bin\Debug\print_outs.exe
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\bin\Debug\print_outs.pdb
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.csprojResolveAssemblyReference.cache
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.FrmAnnualFsReport.resources
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.Properties.Resources.resources
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.csproj.GenerateResource.Cache
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.exe
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\print_outs.pdb
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\RdlCompile.cache
+C:\Users\JOB\Desktop\Projects\schoolfinance\eSchool\eSchool\print_outs\obj\Debug\RdlCompile.compiled
